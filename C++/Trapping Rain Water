@@ -17,5 +17,5 @@ int trap(vector<int>& height) {
         {
             sum+=(min(lefth[i],righth[i]))-height[i];
         }
-        return sum;
+        return sum:
     }
